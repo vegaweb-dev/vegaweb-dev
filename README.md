@@ -1,12 +1,10 @@
 ### Hi there 👋
-### I'm fullstack developer currently working on the front with ReactJs
+### I'm currently learning Java 
 ___________________________________________________________________________________________________
 ### My stack:
-#### HTML, CSS, JavaScript
-#### ReactJs
+
 #### NodeJS and Express
-#### MongoDb
-#### I'm currently learning SQL
+
 
 <!--
 **vegaweb-dev/vegaweb-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
