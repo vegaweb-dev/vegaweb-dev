@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm currently learning Java 
+### I'm QA automation engineer (Selenium - Java, Playwright - JavaScript)
 ___________________________________________________________________________________________________
 ### My stack:
 
