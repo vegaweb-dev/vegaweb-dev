@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm QA Automation Engineer (Selenium - Java && Playwright - JavaScript)
+### I'm QA Automation Engineer (Selenium - Java   &&   Playwright - JavaScript)
 ___________________________________________________________________________________________________
 ### My stack:
 
