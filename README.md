@@ -4,14 +4,13 @@
 Refining software quality through robust UI & API automation ecosystems. Mechanical Engineer with a passion for advanced OOP, algorithmic logic, and continuous testing.
 
 ---
-### 🛠️ Technical Stack & Tooling
+### 🛠️ Technical Stack & Quality Infrastructure
 
-- **Languages:** ![Java](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io)
-- **API Testing:** ![Rest Assured](https://shields.io) `Postman` `RESTful APIs`
-- **UI Automation:** ![Selenium](https://shields.io) ![Playwright](https://shields.io) `Cypress` `TestNG` `JUnit`
-- **CI/CD & DevOps:** ![GitHub Actions](https://shields.io) `Jenkins` `Git` `Maven`
-- **Performance:** `K6` `Prometheus` `Grafana`
-
+*   **Core Languages:** `Java (Advanced OOP)` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `SQL`
+*   **API Test Automation:** Rest Assured &nbsp;|&nbsp; Postman &nbsp;|&nbsp; RESTful APIs Validation &nbsp;|&nbsp; JSON Payload Verification
+*   **UI Test Automation:** Selenium WebDriver &nbsp;|&nbsp; Playwright &nbsp;|&nbsp; Cypress &nbsp;|&nbsp; TestNG &nbsp;|&nbsp; JUnit &nbsp;|&nbsp; POM
+*   **CI/CD & DevOps:** GitHub Actions &nbsp;|&nbsp; Jenkins &nbsp;|&nbsp; Git/GitHub &nbsp;|&nbsp; Maven
+*   **Performance & Observability:** K6 &nbsp;|&nbsp; Prometheus &nbsp;|&nbsp; Grafana
 
 ---
 
