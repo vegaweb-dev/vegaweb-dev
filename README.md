@@ -23,5 +23,5 @@ Refining software quality through robust UI & API automation ecosystems. Mechani
 ---
 
 ### 🚀 Featured Automation Projects
-- 📁 **[Java API Automation Framework](https://github.com)**: Scalable framework built from scratch using Rest Assured and GitHub Actions pipelines.
+- 📁 **[Java API Automation Framework]([https://github.com](https://github.com/vegaweb-dev/rest-assured-api-automation-framework))**: Scalable framework built from scratch using Rest Assured and GitHub Actions pipelines.
 - 📁 **[Selenium E-Commerce Suite](https://github.com)**: End-to-end automated smoke testing using POM.
