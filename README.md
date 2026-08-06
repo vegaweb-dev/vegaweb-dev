@@ -1,23 +1,27 @@
-### Hi there 👋
-### I'm QA Automation Engineer (Selenium - Java   &&   Playwright - JavaScript)
-___________________________________________________________________________________________________
-### My stack:
+# Hi there, I'm Carlos Vega 👋
+### Software Development Engineer in Test (SDET) | QA Automation Engineer
 
-### SELENIUM JAVA
-### PLAYWRIGHT JAVASCRIPT
+Refining software quality through robust UI & API automation ecosystems. Mechanical Engineer with a passion for advanced OOP, algorithmic logic, and continuous testing.
 
+---
 
-<!--
-**vegaweb-dev/vegaweb-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Tooling
 
-Here are some ideas to get you started:
+- **Languages:** ![Java](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io)
+- **API Testing:** Rest Assured, Postman, RESTful APIs Validation
+- **UI Automation:** Selenium WebDriver, Playwright, Cypress, TestNG, JUnit
+- **CI/CD & DevOps:** GitHub Actions, Jenkins, Git, Maven
+- **Performance:** K6, Prometheus, Grafana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Polyglot Communication
+- 🇬🇧 **English:** C1 (Professional working proficiency)
+- 🇩🇪 **German:** B2+ (Technical and business environment experience)
+- 🇧🇷 **Portuguese:** C1 (Advanced fluency)
+
+---
+
+### 🚀 Featured Automation Projects
+- 📁 **[Java API Automation Framework](#)**: Scalable framework built from scratch using Rest Assured and GitHub Actions pipelines.
+- 📁 **[Selenium E-Commerce Suite](https://github.com)**: End-to-end automated smoke testing using POM.
