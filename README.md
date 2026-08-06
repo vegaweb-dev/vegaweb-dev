@@ -1,4 +1,4 @@
-# Hi there, I'm Carlos Vega A. 👋
+# Hi there, I'm Carlos Vega 👋
 ### Software Development Engineer in Test (SDET) | QA Automation Engineer
 
 Refining software quality through robust UI & API automation ecosystems. Mechanical Engineer with a passion for advanced OOP, algorithmic logic, and continuous testing.
@@ -7,11 +7,11 @@ Refining software quality through robust UI & API automation ecosystems. Mechani
 
 ### 🛠️ Tech Stack & Tooling
 
-- **Languages:** ![Java](https://shields.io) ![TypeScript](https://shields.io) ![JavaScript](https://shields.io)
-- **API Testing:** Rest Assured, Postman, RESTful APIs Validation
-- **UI Automation:** Selenium WebDriver, Playwright, Cypress, TestNG, JUnit
-- **CI/CD & DevOps:** GitHub Actions, Jenkins, Git, Maven
-- **Performance:** K6, Prometheus, Grafana
+*   **☕ Java** &nbsp;|&nbsp; **🔷 TypeScript** &nbsp;|&nbsp; **🟨 JavaScript**
+*   **🚀 API Testing:** Rest Assured, Postman, RESTful APIs Validation
+*   **💻 UI Automation:** Selenium WebDriver, Playwright, Cypress, TestNG, JUnit
+*   **⚙️ CI/CD & DevOps:** GitHub Actions, Jenkins, Git, Maven
+*   **📊 Performance:** K6, Prometheus, Grafana
 
 ---
 
