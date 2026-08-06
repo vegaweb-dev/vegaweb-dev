@@ -4,13 +4,13 @@
 Refining software quality through robust UI & API automation ecosystems. Mechanical Engineer with a passion for advanced OOP, algorithmic logic, and continuous testing.
 
 ---
-### 🛠️ Technical Stack & Quality Infrastructure
+### 🛠️ Tech Stack & Tooling
 
-*   **Core Languages:** `Java (Advanced OOP)` &nbsp;|&nbsp; `TypeScript` &nbsp;|&nbsp; `JavaScript` &nbsp;|&nbsp; `SQL`
-*   **API Test Automation:** Rest Assured &nbsp;|&nbsp; Postman &nbsp;|&nbsp; RESTful APIs Validation &nbsp;|&nbsp; JSON Payload Verification
-*   **UI Test Automation:** Selenium WebDriver &nbsp;|&nbsp; Playwright &nbsp;|&nbsp; Cypress &nbsp;|&nbsp; TestNG &nbsp;|&nbsp; JUnit &nbsp;|&nbsp; POM
-*   **CI/CD & DevOps:** GitHub Actions &nbsp;|&nbsp; Jenkins &nbsp;|&nbsp; Git/GitHub &nbsp;|&nbsp; Maven
-*   **Performance & Observability:** K6 &nbsp;|&nbsp; Prometheus &nbsp;|&nbsp; Grafana
+*   **🟤 Java** &nbsp;|&nbsp; **🔷 TypeScript** &nbsp;|&nbsp; **🟨 JavaScript**
+*   **🚀 API Testing:** Rest Assured, Postman, RESTful APIs Validation
+*   **💻 UI Automation:** Selenium WebDriver, Playwright, Cypress, TestNG, JUnit
+*   **⚙️ CI/CD & DevOps:** GitHub Actions, Jenkins, Git, Maven
+*   **📊 Performance:** K6, Prometheus, Grafana
 
 ---
 
